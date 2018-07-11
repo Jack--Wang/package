@@ -6,9 +6,9 @@
  * Time: 下午3:19
  */
 
-namespace Package;
+namespace JackWiy;
 
-class Test
+class JackTest
 {
     public static function show()
     {

@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "package\\":"src/"
+      "JackWiy\\":"src/"
     },
     "files": [
       "src/helpers.php"
