@@ -8,9 +8,9 @@
 
 namespace Package;
 
-class Jackwiy
+class Test
 {
-    public static function test()
+    public static function show()
     {
         return 'Jack only test package!';
     }

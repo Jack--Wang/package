@@ -1,5 +1,5 @@
 {
-  "name": "jackwiy/wiy",
+  "name": "jackwiy/package",
   "description": "jack only test package",
   "keywords": [
     "jack wiy"
@@ -19,6 +19,7 @@
   },
   "autoload": {
     "psr-4": {
+      "package\\":"src/"
     },
     "files": [
       "src/helpers.php"
