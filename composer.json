@@ -1,0 +1,38 @@
+{
+  "name": "jackwiy/wiy",
+  "description": "jack only test package",
+  "keywords": [
+    "jack wiy"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jack.wang",
+      "email": "hxwzwiy@gmail.com",
+      "homepage": "https://hxwzblog.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "dont-discover": [
+      ],
+      "providers": [
+      ],
+      "aliases": {
+      }
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
